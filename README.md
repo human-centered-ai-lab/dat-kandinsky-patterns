@@ -1,1 +1,1 @@
-# KDY-datasets
+# Test Data Sets for Kandinsky Patterns
