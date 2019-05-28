@@ -16,5 +16,9 @@ in the following illustrative examples.  In the demo implementation this fact is
 in the base class ”Kandinsky Universe”, and in the generator functions, see:
 https://github.com/human-centered-ai-lab/app-kandinsky-pattern-generator
 
-\begin{definition} A Statement \textbf{$s(k)$} about a Kandinsky Figure $k$ is either a mathematical function, $s(k) \to B$; with $B (0,1)$ or a natural language statement, which can be either true or false. 
-\end{definition}
+Definition 2 : A Statement \textbf{$s(k)$} about a Kandinsky Figure $k$ is either a mathematical function, $s(k) \to B$; with $B (0,1)$ or a natural language statement, which can be either true or false. 
+
+
+
+
+
