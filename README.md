@@ -18,7 +18,9 @@ https://github.com/human-centered-ai-lab/app-kandinsky-pattern-generator
 
 Definition 2 : A Statement \textbf{$s(k)$} about a Kandinsky Figure $k$ is either a mathematical function, $s(k) \to B$; with $B (0,1)$ or a natural language statement, which can be either true or false. 
 
+Remark: The evaluation of a natural language statement is always done in a specific context. In the followings examples we we use well known concepts from human perception and linguistic theory.  If k is given as an algorithm, it is essential that the function is a pure function, which is a computational analogue of a mathematical function.
 
+Definition 3: A Kandinsky Pattern $K_p$ is defined as the subset of all possible Kandinsky Figures $K$ with $s(k) \to 1$ is true.  $s(k)$ and a natural language statement are equivalent if and only if the resulting Kandinsky Patterns contain the same Kandinsky Figures. $s(k)$ and the natural language statement are defined as the \textbf{Ground Truth} of a Kandinsky Pattern.
 
 
 
