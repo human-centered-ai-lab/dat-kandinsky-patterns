@@ -14,4 +14,7 @@ the values red, blue, yellow, and we allow arbitrary positions and size with the
 recognizably.  Furthermore, we require each Kandinsky Figure to contain exactly 4 objects
 in the following illustrative examples.  In the demo implementation this fact is embedded
 in the base class ”Kandinsky Universe”, and in the generator functions, see:
+https://github.com/human-centered-ai-lab/app-kandinsky-pattern-generator
 
+\begin{definition} A Statement \textbf{$s(k)$} about a Kandinsky Figure $k$ is either a mathematical function, $s(k) \to B$; with $B (0,1)$ or a natural language statement, which can be either true or false. 
+\end{definition}
