@@ -1,5 +1,7 @@
 # Test Data Sets for Kandinsky Patterns
-In the following we provide a few definitions, for more information please refer to our ArXiV paper.
+In the following we provide a few definitions, for more information please refer to our accompanying Website 
+https://human-centered.ai/project/kandinsky-patterns
+and our ArXiV paper.
 
 Definition 1 : Kandinsky Figure
 is a square image containing 1 to n geometric objects.
